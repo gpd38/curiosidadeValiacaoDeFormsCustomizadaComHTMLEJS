@@ -4,7 +4,7 @@ Estudando formas de melhorar validações de interface no html com javascript
 
 ### Demo
 
-Para visualizar como está o site [clique aqui](https://gpd38.github.io/curiosidadeValiacaoDeFormsCustomizadaComHTMLEJS/)
+Para visualizar como está o site [clique aqui](https://gpd38.github.io/curiosidadeValidacaoDeFormsCustomizadaComHTMLEJS/)
 
 ### Estrutura do site
 
